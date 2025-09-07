@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick('You got banned by an admin')
+game.Players.LocalPlayer:Kick('You are banned from this game')
